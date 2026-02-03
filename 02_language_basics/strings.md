@@ -113,3 +113,8 @@
 ### 'Masala\\nChai'
 ### >>> print(sentence)
 ### Masala\nChai
+
+## string interpolation
+```
+print('Your coffee style is {} and {}'.format(style,coffee_size))
+```
